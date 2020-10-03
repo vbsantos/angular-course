@@ -1,1 +1,1 @@
-# Angular Course
+# angular-course
